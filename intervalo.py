@@ -1,6 +1,6 @@
 dentro = 0
 fora = 0
-for n in range (3):
+for n in range (10):
     num = int(input(f"Digite 10 valores: "))
     if num>=10 and num<=20:
         dentro= dentro + 1
